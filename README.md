@@ -5,6 +5,9 @@ This is the final project of the course MSDS 699 Machine learning laboratory.
 
 Using the machine learning library scikit learn and supervised learning, this project’ll predict a user’s rating on a new anime based on the previous rating or and the features of the anime such as genre, number of episodes, and how popular or well-known this anime is. One promising business application of this model is to make it part of the recommendation engine. By recommending more anime that this user is truly interested in, we are able to increase the engagement and loyalty of the anime streaming website. 
 
+# Colab link
+https://colab.research.google.com/drive/16ZA5QxdFxMbENBcvLs-38dF6fLUc02fN?usp=sharing
+
 # Data Source
 Anime Recommendations Database (https://www.kaggle.com/CooperUnion/anime-recommendations-database)
 
